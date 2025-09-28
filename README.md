@@ -14,8 +14,9 @@ A dynamic replica of the Lamborghini homepage built using PHP, showcasing server
 - Static content rendered dynamically via includes
 - Visual fidelity to Lamborghini’s branding
 - Clean navigation and responsive layout
+  
 
-- 🛠️ How to Install XAMPP (Windows)
+🛠️ How to Install XAMPP (Windows)
 1. Download XAMPP
 - Go to the official site: https://www.apachefriends.org
 - Choose the Windows version and download the installer.
